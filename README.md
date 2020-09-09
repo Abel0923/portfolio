@@ -2,7 +2,7 @@
 
 ## 👇 WATCH THIS FIRST 👇
 
-![ReactJS Resume Website Template](resume-screenshot.jpg?raw=true "ReactJS Resume Website Template")
+![ReactJS Resume Website Template](resume-screenshot.JPG?raw=true "ReactJS Resume Website Template")
 
 ## <a href="https://unruffled-shockley-31c5b6.netlify.app/">LIVE DEMO</a>
 
