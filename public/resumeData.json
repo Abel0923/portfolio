@@ -1,0 +1,129 @@
+{
+  "main": {
+    "name": "Abel Wondwosen",
+    "occupation": "ReactJS & NodeJs developer",
+    "description": "Full Stack React Developer",
+    "image": "FB_Abel.jpg",
+    "bio": "My name is Abel, I'm a Full Stack ReactJS Developer. Currently I'm Fresh Graduate",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "theabelw@gmail.com",
+    "phone": "+251923249976",
+    "address": {
+      "street": "Bole road",
+      "city": "Addis Abeba, Ethiopia",
+      "state": "Ethiopia",
+      "zip": "1000"
+    },
+    "website": "https://drive.google.com/file/d/1_I_OAa3pdNq6ozai3iIyWhx-pdK3gXo8/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1_I_OAa3pdNq6ozai3iIyWhx-pdK3gXo8/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/abel.wondwosen.7",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/abel-wondwosen-b3a2a4180/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/wondwosen.abel/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/Abel0923",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "More about my skills",
+    "education": [
+      {
+        "school": "Unity University, Ethiopia",
+        "degree": "Bachelor's degree in Computer Science",
+        "graduated": "January 2019",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Apposit LLC.",
+        "title": "Intern",
+        "years": "October 2019 - January 2020",
+        "description": "Writing features and tests."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "Java",
+        "level": "80%"
+      },
+      {
+        "name": "Angular 2+",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "75%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "65%"
+      },
+      {
+        "name": "MySQL",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://fb-clone-41c21.web.app/"
+      },
+      {
+        "title": "Covid-19 Tracker",
+        "category": "Covid-19 Tracker built with ReactJS",
+        "image": "covid_19.jpg",
+        "url": "http://covid-19-tracker-7ebab.web.app/"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://netflix-clone-6ef16.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "The only way to do great work is to love what you do.",
+        "user": "Steve Jobs"
+      }
+    ]
+  }
+}
